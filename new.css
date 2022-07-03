@@ -1,10 +1,14 @@
-p{
-    color: rgb(12, 191, 236);
+h4{
+    color: rgb(77, 210, 243);
     
 }
 body{
-    background-color: crimson;
+    background-color: rgba(220, 20, 60, 0.221);
 }
-h{
+h1{
     color: yellow;
+}
+h3{
+    color: rgba(57, 225, 34, 0.463);
+
 }
